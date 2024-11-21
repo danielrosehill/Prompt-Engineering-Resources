@@ -1,0 +1,6 @@
+![Highly Recommended](https://img.shields.io/badge/Highly%20Recommended-brightgreen)
+![Read](https://img.shields.io/badge/Read-blue)
+![Recommended](https://img.shields.io/badge/Recommended-green)
+![Haven't Read](https://img.shields.io/badge/Haven't%20Read-lightgrey)
+![On Wishlist](https://img.shields.io/badge/On%20Wishlist-orange)
+![In Queue](https://img.shields.io/badge/In%20Queue-yellow)
