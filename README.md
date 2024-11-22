@@ -4,6 +4,27 @@
 
 Some resources about prompt engineering. 
 
+# Table Of Contents / What's Here
+
+## Tools
+- [Browser Extensions](tools/browser-extensions)
+- [CLIs](tools/clis)
+- [Python Libraries](tools/python-libraries)
+- [Testing](tools/testing)
+- [Tool Discovery](tools/tool-discover)
+
+## Pages
+- [Books](books)
+
+## Other
+- [Guides](guides)
+- [Discovery Prompts](search-prompts)
+
+## To-Add / Coming Soon
+- [Index Root](/non-docs/coming-soon/)
+
+---
+
 ## Author
 
 Daniel Rosehill  
